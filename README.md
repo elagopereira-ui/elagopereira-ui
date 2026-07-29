@@ -23,5 +23,5 @@ Sou movido por desafios, dedicação e pelo desejo constante de crescer profissi
 
 ### 📊 Estatísticas do GitHub
 
-[![Elias Stats](https://github-readme-stats.vercel.app/api?username=elagopereira-ui)](https://github.com/anuraghazra/github-readme-stats)
+[![Elias Stats](https://github-readme-stats.vercel.app/api?username=elagopereiraui)](https://github.com/anuraghazra/github-readme-stats)
 

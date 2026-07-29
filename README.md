@@ -23,8 +23,5 @@ Sou movido por desafios, dedicação e pelo desejo constante de crescer profissi
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elias-Lago-sketch&theme=radial" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elias-Lago-sketch&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-</p>
+![Elias-Lago](https://github-readme-stats.vercel.app/api?username=elagopereira-ui&show_icons=true&theme=tokyonight)
 

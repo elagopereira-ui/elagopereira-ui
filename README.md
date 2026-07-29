@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**elagopereira-ui/elagopereira-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Elias Lago, jornalista formado e pós-graduado na área da Comunicação. Acredito que aprender continuamente é a melhor forma de evoluir, por isso estou expandindo minha trajetória para o universo da tecnologia.
 
-Here are some ideas to get you started:
+Atualmente, estou em formação como desenvolvedor Full Stack, adquirindo conhecimentos e realizando projetos com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="24"/>;
+*   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="24"/>;
+*   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" heigh="24"/>;
+*   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="24"/>
+</p>.
+  
+Além de aprofundar minhas habilidades em desenvolvimento de software.
+Meu objetivo é unir a comunicação e a tecnologia para criar soluções inovadoras e construir uma carreira sólida na programação.
+
+Sou movido por desafios, dedicação e pelo desejo constante de crescer profissionalmente. Esta é apenas a primeira etapa de uma jornada de aprendizado contínuo rumo à excelência como desenvolvedor.🚀
